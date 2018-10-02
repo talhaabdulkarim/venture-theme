@@ -1,0 +1,12 @@
+development:
+  password: 46de0f900a262876829d2f46fe0810ab
+  theme_id: "12904529977"
+  store: measuperstore.myshopify.com
+production:
+  password: 89bfde9cb7d91d6ae441ae6283c4db3f
+  theme_id: "7642415132"
+  store: production-mea.myshopify.com
+test:
+  password: 73758a6409d31a4af87d706938a40cc0
+  theme_id: "11790975012"
+  store: test-mea.myshopify.com
